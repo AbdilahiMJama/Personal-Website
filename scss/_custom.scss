@@ -1,0 +1,32 @@
+// Import bootstrap 5
+
+// My theme colors
+$black: #000000;
+$white: #ffffff;
+$grayish: #bdc3c7;
+$grayish2: #2c3e50;
+$earthy: #3E5151;
+$tear: #decba4;
+$green: #006663;
+$gblue:#557c93;
+$dblue: #08203e;
+// Grey and White colors
+// scss-docs-start gray-color-variables
+$white:    #ffffff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+// scss-docs-end gray-color-variables
+
+$primary: $dblue;
+$secondary: $gblue;
+ 
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
