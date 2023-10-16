@@ -24,7 +24,7 @@
     height: 0.1rem;
     display: block;
     margin: 0 auto;
-    background-color: black;
+    background-color: $primary;
 
 }
 .heading-line::after{
@@ -35,6 +35,10 @@
     display: block;
     margin: 0 auto;
     margin-bottom: 1rem;
-    background-color: black;
+    background-color: $primary;
 }
+//Display 3
 
+.display-3 {
+    font-family: 'DM Sans', sans-serif;
+}

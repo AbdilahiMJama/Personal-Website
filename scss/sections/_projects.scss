@@ -1,0 +1,9 @@
+@use '../custom' as *;
+@use '../components/mixins' as *;
+.projects {
+    margin-top: 100px;
+    h1 {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 5rem;
+    }
+}
