@@ -11873,7 +11873,7 @@ textarea.form-control-lg {
   height: 0.1rem;
   display: block;
   margin: 0 auto;
-  background-color: black;
+  background-color: #08203e;
 }
 
 .heading-line::after {
@@ -11884,7 +11884,26 @@ textarea.form-control-lg {
   display: block;
   margin: 0 auto;
   margin-bottom: 1rem;
-  background-color: black;
+  background-color: #08203e;
+}
+
+.display-3 {
+  font-family: "DM Sans", sans-serif;
+  margin-bottom: 1rem;
+}
+.display-3--title {
+  font-size: 1.8rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: "DM Sans", sans-serif;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(to right, #08203e, #557c93);
+  -webkit-text-fill-color: transparent;
+}
+
+.border-right {
+  border-right: 0.1rem solid #dee2e6;
+  height: 100%;
 }
 
 .intro-section {
@@ -11924,6 +11943,24 @@ textarea.form-control-lg {
   font-family: "Caveat", cursive;
   font-weight: 700;
   font-size: 2.5rem;
+}
+
+.projects {
+  margin-top: 100px;
+  position: relative;
+  padding: 1rem 0;
+}
+.projects h1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 5rem;
+}
+.projects__content {
+  padding: 1rem;
+  margin-top: 1.5rem;
+}
+.projects__content .icon {
+  font-size: 2.5rem;
+  color: #557c93;
 }
 
 .about-section {

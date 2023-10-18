@@ -42,6 +42,16 @@
 .display-3 {
     font-family: 'DM Sans', sans-serif;
     margin-bottom: 1rem;
+    &--title {
+        font-size: 1.8rem;
+        text-transform: capitalize;
+        font-weight: 600;
+        font-family:'DM Sans', sans-serif ;
+        -webkit-background-clip: text;
+        background-image: linear-gradient(to right, $primary, $secondary);
+        -webkit-text-fill-color: transparent;
+        
+    }
 }
 
 // Border right
