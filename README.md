@@ -24,4 +24,3 @@
 - [Getwaves](https://getwaves.io/)
 - [Icons 8](https://icons8.com/icons/color)
 - [Many pixels](https://www.manypixels.co/gallery/)
--
