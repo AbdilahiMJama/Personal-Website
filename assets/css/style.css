@@ -11955,13 +11955,18 @@ textarea.form-control-lg {
   font-size: 5rem;
   color: #ffffff;
 }
+.projects h3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 2rem;
+  color: #ffffff;
+}
 .projects__content {
   padding: 1rem;
   margin-top: 10rem;
   color: #ffffff;
 }
 .projects__content .icon {
-  font-size: 2.5rem;
+  font-size: 4.5rem;
   color: #ffffff;
 }
 .projects__pic {
