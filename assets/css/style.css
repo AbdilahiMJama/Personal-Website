@@ -11947,7 +11947,6 @@ textarea.form-control-lg {
 
 .projects {
   position: relative;
-  padding: 1rem 0;
   background: linear-gradient(to right, rgba(8, 32, 62, 0.95), rgba(85, 124, 147, 0.95));
   color: white;
 }
