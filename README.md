@@ -6,7 +6,6 @@
 - Projects
 - Contact
 
-- Home page screenshot
 ![Home page screenshot](./images/art/Portfolio%20screenshot.png)
 
 ## Built with
