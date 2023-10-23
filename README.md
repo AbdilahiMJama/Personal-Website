@@ -1,10 +1,7 @@
 # My personal portfolio web page
 ## Table of contents
-- Home page
-- About Me
-- Skills
-- Project
-- Contact
+- Home page screenshot
+![Home page screenshot](./images/art/Portfolio%20screenshot.png)
 
 ## Built with
 - HTML
