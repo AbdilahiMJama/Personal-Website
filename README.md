@@ -17,7 +17,7 @@
 ## Acknowledgement
 - [Muriungi Patrick](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template/tree/main)
 - [Tutorial Video](https://www.youtube.com/watch?v=iJKCj8uAHz8&ab_channel=freeCodeCamp.org)
-- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Google fonts](https://fonts.google.com/)
 - [Fontawesome](https://fontawesome.com/)
