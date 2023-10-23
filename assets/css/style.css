@@ -11897,7 +11897,7 @@ textarea.form-control-lg {
   font-weight: 600;
   font-family: "DM Sans", sans-serif;
   -webkit-background-clip: text;
-  background-image: linear-gradient(to right, #08203e, #557c93);
+  background-image: white;
   -webkit-text-fill-color: transparent;
 }
 
@@ -11946,21 +11946,24 @@ textarea.form-control-lg {
 }
 
 .projects {
-  margin-top: 100px;
   position: relative;
   padding: 1rem 0;
+  background: linear-gradient(to right, rgba(8, 32, 62, 0.95), rgba(85, 124, 147, 0.95));
+  color: white;
 }
 .projects h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 5rem;
+  color: #ffffff;
 }
 .projects__content {
   padding: 1rem;
   margin-top: 10rem;
+  color: #ffffff;
 }
 .projects__content .icon {
   font-size: 2.5rem;
-  color: #557c93;
+  color: #ffffff;
 }
 .projects__pic {
   max-width: 100%;

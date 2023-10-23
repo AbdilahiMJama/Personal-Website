@@ -1,20 +1,24 @@
 @use '../custom' as *;
 @use '../components/mixins' as *;
 .projects {
-    margin-top: 100px;
+    //margin-top: 100px;
     position: relative;
     padding: 1rem 0;
+    @include gradient;
+    color: white;
     h1 {
         font-family: 'DM Sans', sans-serif;
         font-size: 5rem;
+        color: $white;
     }
     &__content {
         padding: 1rem;
         margin-top: 10rem;
+        color: $white;
 
         .icon {
             font-size: 2.5rem;
-            color: $secondary;
+            color: $white;
         }
     }
     &__pic {
